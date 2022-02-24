@@ -1,4 +1,4 @@
-name: rapid scan
+name: rapidscan
 on:
   workflow_dispatch:
 
